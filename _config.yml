@@ -9,9 +9,5 @@ repository: JJPPeters/jekyll-graphene-theme
 author:
   name: J. J. P. Peters
   github_username: JJPPeters
-  url: http://a-name's-site.com
+  url: https://github.com/JJPPeters
   email: jonathanjppeters@gmail.com
-
-release:
-  url: ""
-  button_text: ""
