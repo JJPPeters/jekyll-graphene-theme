@@ -1,5 +1,7 @@
-base: 2E2E2E
-accent: 606676
-alternative: 415895
-logo: /assets/logo.svg # path from base that contains the main logo/icon
-texture: /assets/texture.png # path from base that contains the header background (tiled) texture
+base: "2E2E2E"
+accent: "606676"
+alternative: "415895"
+logo: "/assets/logo.svg" # path from base that contains the main logo/icon
+texture: "/assets/texture.png" # path from base that contains the header background (tiled) texture
+overlay_start: "00000021"
+overlay_end: "00000099"
