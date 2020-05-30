@@ -1,0 +1,17 @@
+# setup
+title: Graphene theme # this is the main title in the header
+tagline: A jekyll theme # this is the text that appears next to the title
+baseurl: /jekyll-graphene-theme # the subpath of your site, e.g. /blog
+url: https://jjppeters.github.io/jekyll-graphene-theme/ # the base hostname & protocol for your site, e.g. http://example.com
+repository: JJPPeters/jekyll-graphene-theme
+
+# contact
+author:
+  name: J. J. P. Peters
+  github_username: JJPPeters
+  url: http://a-name's-site.com
+  email: jonathanjppeters@gmail.com
+
+release:
+  url: ""
+  button_text: ""

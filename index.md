@@ -1,5 +1,10 @@
-# jekyll-graphene-theme
-A jekyll theme made by someone who doesn't know how to make jekyll themes.
+---
+title: About
+---
+
+# {{page.title}}
+
+The jekyll graphene theme is a jekyll theme made by someone who doesn't know how to make jekyll themes.
 
 This theme is a modified version of the [Cayman Theme](https://github.com/jasonlong/cayman-theme) from [Jason Long](https://github.com/jasonlong).
 
