@@ -74,7 +74,7 @@
   .page-header {
     color: #fff;
     background: linear-gradient(130deg, rgba(0,0,0,0.13), rgba(0,0,0,0.8)),
-                url("{{ site.data.colours.texture | relative_url }}") repeat #{{ site.data.colours.base }};
+                url("{{ site.data.colours.texture | relative_url }}") repeat left, #{{ site.data.colours.base }};
     background-size: cover, 64px auto;
   }
   
