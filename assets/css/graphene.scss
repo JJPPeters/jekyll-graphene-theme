@@ -74,7 +74,7 @@
   .page-header {
     color: #fff;
     background: linear-gradient(130deg, #{{site.data.colours.overlay_start}}, #{{ site.data.colours.overlay_end }}),
-                url("{{ site.data.colours.texture | relative_url }}") repeat left, #{{ site.data.colours.base }};
+                url("{{ site.data.images.texture | relative_url }}") repeat left, #{{ site.data.colours.base }};
     background-size: cover, 64px auto;
   }
   
