@@ -75,7 +75,11 @@
     color: #fff;
     background: linear-gradient(130deg, #{{site.data.colours.overlay_start}}, #{{ site.data.colours.overlay_end }}),
                 url("{{ site.data.images.texture | relative_url }}") repeat left, #{{ site.data.colours.base }};
-    background-size: cover, 64px auto;
+    {% if site.data.images.texture_width %}
+        background-size: cover, {{ site.data.images.texture_width }}px auto;
+    {% else %}
+        background-size: cover, 64px auto;
+    {% endif %}
   }
   
   @media screen and (min-width: 64em) {
